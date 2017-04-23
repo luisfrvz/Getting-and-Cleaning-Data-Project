@@ -14,7 +14,7 @@ The cleanup script (run_analysis.R) does the following:
 - Run source("run_analysis.R")
 - The script will download the original dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and store it as dataset.zip
 - Then data will be extracted to a folder named UCI HAR Dataset
-- As final step a file name Tidy.txt with separator ";" will be generated in your working directory as solution to step 5 below 
+- As final step a file named Tidy.txt with separator ";" will be generated in your working directory as solution to step 5 below 
 
 ## Dependencies
 
