@@ -19,7 +19,8 @@ The dataset includes the following files:
 
     - 'features_info.txt': Shows information about the variables used on the feature vector.
 
-    - 'features.txt': List of all features. __It's recommended to read this file for full understanding of the dataset__
+    - 'features.txt': List of all features. 
+   ***It's recommended to read features.txt for full understanding of the dataset***
 
     - 'activity_labels.txt': Links the class labels with their activity name.
 
